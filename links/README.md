@@ -1,6 +1,7 @@
 ## John's Links
 ### Connect
-- [Strava](https://www.strava.com/athletes/john2026) - Fitness Tracking App
+- [Strava App](https://www.strava.com/athletes/john2026) - Fitness Tracking App
 - [Bible App](https://www.bible.com/users/wrightmode) - Bible verses
+  
 ### Photos
 - [Apple Photostream](https://www.icloud.com/sharedalbum/#B2FGWZuqDGSj3Gk)
