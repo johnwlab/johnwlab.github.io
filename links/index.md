@@ -2,7 +2,7 @@
 layout: no-header
 ---
 
-### John's
+### John's Links
 
 ### Connect
 - 🏃 [Strava App](https://www.strava.com/athletes/john2026) - john2026 - Fitness Tracking App
