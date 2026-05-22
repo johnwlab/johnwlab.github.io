@@ -1,3 +1,7 @@
+---
+layout: no-header
+---
+
 ### Connect
 - 🏃 [Strava App](https://www.strava.com/athletes/john2026) - Fitness Tracking App
 - 📖 [Bible App](https://www.bible.com/users/wrightmode) - Bible verses
