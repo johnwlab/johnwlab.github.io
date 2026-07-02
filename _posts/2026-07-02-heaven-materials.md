@@ -3,7 +3,7 @@ layout: post
 title: "New Jerusalem Material List"
 date: 2026-07-02 10:00:00 -0500
 categories: notes
-tags: [getting-started]
+tags: [bible]
 published: true
 ---
 
