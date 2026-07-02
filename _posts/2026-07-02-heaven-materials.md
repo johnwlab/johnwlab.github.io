@@ -19,15 +19,16 @@ Foundations of the City Walls
   1. Jasper
   2. Sapphire
   3. [Agate(https://www.amazon.com/rockcloud-Crystals-Tumbling-Lapidary-Polishing/dp/B071CGBXCH?crid=1MNNJ7DDKZSG1&dib=eyJ2IjoiMSJ9.kcCHpb2L_uSStbk5rPdPMbm0xNmWmrxQdNMhTqLbHkED_TH9TlKaFdvsOp6yslRfTnZpKjsPcNMwkJat3-3CQtZ2UcqzCqU1fA_1XpzEf6bL1FOcb_5Gxu458QTGNpJsov04okcsrBq-vb1D9U9AejhlHzxtRw4hglqDKk_MQ9q7jRB1228WtnQL4njje_HGllKGb_0vC0tp_htl0xvtYbnJP_4CDhAGGrrTtiZgvsnsdkQDU5qc_6dqf2YW6eM8UH1i5jqqzf5_MEZVbvWxw-WGYMbufNLiSU0SplRdqd4.iKmkLP9Fl4JppWSYGVEWCnk9orPsFPoAMtLGbvaoX2E&dib_tag=se&keywords=raw%2Bagate&qid=1783028337&sprefix=raw%2Bagate%2Caps%2C278&sr=8-9&th=1&linkCode=ll2&tag=jlab2026-20&linkId=947912e84a4412ad649af214d18965c1&language=en_US&ref_=as_li_ss_tl)]
-  4. Emerald
-  5. Onyx
-  6. Ruby
-  7. Chrysolite
-  8. Beryl
-  9. Topaz
-  10. Turquoise
-  11. Jacinth
-  12. Amethyst
+     ![Agate]({{ site.baseurl }}/assets/images/agate.jpg)
+  5. Emerald
+  6. Onyx
+  7. Ruby
+  8. Chrysolite
+  9. Beryl
+  10. Topaz
+  11. Turquoise
+  12. Jacinth
+  13. Amethyst
  
  Twelve Gates: Large Pearl each gate
 
