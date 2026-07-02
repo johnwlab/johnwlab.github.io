@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-header
 title: Notes
 permalink: /notes/
 ---
