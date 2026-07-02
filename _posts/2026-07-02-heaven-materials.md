@@ -9,13 +9,11 @@ published: true
 
 
 
-# New Jerusalem Material List
+## Materials
 
-Walls
-  Jasper (clear as crystal)
+Walls: Jasper (clear as crystal)
   
-City 
-  Gold as pure as glass
+City: Gold as pure as glass
 
 Foundations of the City Walls
   1. Jasper
@@ -31,14 +29,12 @@ Foundations of the City Walls
   11. Jacinth
   12. Amethyst
  
- Twelve Gates 
-   Large Pearl each gate
+ Twelve Gates: Large Pearl each gate
 
- Street
-   Gold, pure as transparent glass.
+ Street: Gold, pure as transparent glass.
 
 
-# Bible Reference 
+## Bible Reference 
 
 Revelation 21:9-27 (NIV)
 
