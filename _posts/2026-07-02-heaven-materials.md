@@ -16,19 +16,19 @@ Walls: Jasper (clear as crystal)
 City: Gold as pure as glass
 
 Foundations of the City Walls
-  1. Jasper
-  2. Sapphire
+  1. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jasper" class="thumbnail"> Jasper](#)
+  2. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Sapphire" class="thumbnail"> Sapphire](#)
   3. [<img src="{{ site.baseurl }}/assets/images/agate.jpg" alt="Agate" class="thumbnail"> Agate](https://www.amazon.com/rockcloud-Crystals-Tumbling-Lapidary-Polishing/dp/B071CGBXCH?crid=1MNNJ7DDKZSG1&dib=eyJ2IjoiMSJ9.kcCHpb2L_uSStbk5rPdPMbm0xNmWmrxQdNMhTqLbHkED_TH9TlKaFdvsOp6yslRf)
-  4. Chalcedony
-  5. Emerald
-  6. Onyx
-  7. Ruby
-  8. Chrysolite
-  9. Beryl
-  10. Topaz
-  11. Turquoise
-  12. Jacinth
-  13. Amethyst
+  4. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Chalcedony" class="thumbnail"> Chalcedony](#)
+  5. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Emerald" class="thumbnail"> Emerald](#)
+  6. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Onyx" class="thumbnail"> Onyx](#)
+  7. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Ruby" class="thumbnail"> Ruby](#)
+  8. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Chrysolite" class="thumbnail"> Chrysolite](#)
+  9. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Beryl" class="thumbnail"> Beryl](#)
+  10. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Topaz" class="thumbnail"> Topaz](#)
+  11. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Turquoise" class="thumbnail"> Turquoise](#)
+  12. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jacinth" class="thumbnail"> Jacinth](#)
+  13. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Amethyst" class="thumbnail"> Amethyst](#)
   
   Twelve Gates: Large Pearl each gate
 
