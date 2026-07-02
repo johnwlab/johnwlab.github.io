@@ -1,0 +1,110 @@
+---
+---
+
+@import "minima";
+
+// Custom image styling presets
+
+// Responsive - scales with container
+img.responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+// Rounded corners
+img.rounded {
+  border-radius: 8px;
+}
+
+img.circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+// Border and padding
+img.bordered {
+  border: 2px solid #333;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+// Shadow effects
+img.shadow {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+img.shadow-lg {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+// Featured image styling
+img.featured {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  margin: 20px 0;
+}
+
+// Hero/banner image
+img.hero {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+// Inline thumbnail
+img.thumbnail {
+  max-width: 150px;
+  height: auto;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+
+// Article illustration
+img.illustration {
+  max-width: 600px;
+  height: auto;
+  margin: 20px auto;
+  display: block;
+  border-radius: 6px;
+}
+
+// Hover effects
+img.hover-zoom {
+  transition: transform 0.3s ease;
+}
+
+img.hover-zoom:hover {
+  transform: scale(1.05);
+}
+
+img.hover-shadow:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+// Caption styling
+.image-caption {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  font-size: 0.9em;
+  margin-top: 8px;
+}
+
+// Image with caption container
+.image-with-caption {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.image-with-caption img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
