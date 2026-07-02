@@ -13,7 +13,7 @@ published: true
 
 Walls: Jasper (clear as crystal)
   
-City: [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail">Gold "pure as glass"](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY4D0&dib=eyJ2IjoiMSJ9.nqeCV2hBGo4hvtouL_3FrhJSHEtlIDQmwyfE1G-uC8_yvz8LayYoDMaj20b4dxw-Cv2ZHvP6-JPCmGUZSf7-0f7j9CHTE-k9WbPey7JZxiXnCKXSSUVBXhASh_yZ98vcVqfvw1uPOpFfceGiZVU8em3kH9mQixGxAm1OrVo3cXTY6V9bLsxGAQxqRrGkpViPfaCH_N_QNYr8hCKBpJeb-LoHJAsOZ0IaivL-87r8ru647tQsLao6NS8XuJU1CminwduVy8htns0x13dv-zILrdsYNsPjIOPEUHjWfuA9GQI.HQVDLbRmaGwYJQAGLx-Yw9KK_69FzojpIYl3C9Hs9sk&dib_tag=se&keywords=gold+bullion&qid=1783029713&sprefix=gold+bu%2Caps%2C209&sr=8-10&linkCode=ll2&tag=jlab2026-20&linkId=5a1209334f4e77e1600a72bc90cd05a4&language=en_US&ref_=as_li_ss_tl) 
+City: [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold "pure as glass"](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY4D0&dib=eyJ2IjoiMSJ9.nqeCV2hBGo4hvtouL_3FrhJSHEtlIDQmwyfE1G-uC8_yvz8LayYoDMaj20b4dxw-Cv2ZHvP6-JPCmGUZSf7-0f7j9CHTE-k9WbPey7JZxiXnCKXSSUVBXhASh_yZ98vcVqfvw1uPOpFfceGiZVU8em3kH9mQixGxAm1OrVo3cXTY6V9bLsxGAQxqRrGkpViPfaCH_N_QNYr8hCKBpJeb-LoHJAsOZ0IaivL-87r8ru647tQsLao6NS8XuJU1CminwduVy8htns0x13dv-zILrdsYNsPjIOPEUHjWfuA9GQI.HQVDLbRmaGwYJQAGLx-Yw9KK_69FzojpIYl3C9Hs9sk&dib_tag=se&keywords=gold+bullion&qid=1783029713&sprefix=gold+bu%2Caps%2C209&sr=8-10&linkCode=ll2&tag=jlab2026-20&linkId=5a1209334f4e77e1600a72bc90cd05a4&language=en_US&ref_=as_li_ss_tl) 
 
 Foundations of the City Walls
   1. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jasper" class="thumbnail"> Jasper](#)
