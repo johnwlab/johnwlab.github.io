@@ -1,0 +1,16 @@
+# Images directory for notes posts
+
+Add your post images here, organized by date or topic.
+
+Example structure:
+```
+assets/images/
+├── 2026-07-03-post-title/
+│   ├── image1.jpg
+│   └── image2.jpg
+└── screenshots/
+    └── feature.png
+```
+
+Then reference in your posts as:
+`![Alt text]({{ site.baseurl }}/assets/images/filename.jpg)`
