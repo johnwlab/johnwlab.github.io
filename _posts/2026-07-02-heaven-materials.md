@@ -11,9 +11,9 @@ published: true
 
 ## Materials
 
-Walls: Jasper (clear as crystal)
+Walls:<br/> Jasper (clear as crystal)
   
-City: [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold "pure as glass"](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY)
+City:<br/> [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold "pure as glass"](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY)
 
 Foundations of the City Walls
   1. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jasper" class="thumbnail"> Jasper](#)
@@ -30,9 +30,9 @@ Foundations of the City Walls
   12. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jacinth" class="thumbnail"> Jacinth](#)
   13. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Amethyst" class="thumbnail"> Amethyst](#)
   
-  Twelve Gates: [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Pearl" class="thumbnail"> Large Pearl each gate](https://www.amazon.com/LMDPRAJAPATIS-Gemstone-Original-Certified-Carat/dp/B0CDQLCSGZ?crid=2G5HR599ILER2&dib=eyJ2IjoiMSJ9.EFs1siaPAcswWkI7Hda9ZxiMRned5OepeAioQV9y2Pf1KO4xeQD89PzyhnWnx82BdcT5JRLaBMoZYAMrfo167lCvZ_nuLnZGfKlZqSSuMzxILKXhkqPPDACd-PwTUt8-oATpOcqMoKdhJYALxQoDa1AU9gqwSornv32wU25Dt4fI7WC_y-dGzFebqyhCPBC8-VhuHuLXLwSGxpF34O1-tdA7dU9UBSLkC4_7mNE99kVAcxMQF58YCfmnVWQABzf5h33Hrw7XZ1nTP3dmcSUpQJFwMnRO1U3mHTtcV9iJNl0.0eCZILHpIHtBbCGoPqYc7TOc9T7e5zAB2V1-P27O_lo&dib_tag=se&keywords=large%2Bnatural%2Bpearl&qid=1783052840&sprefix=large%2Bpearl%2Caps%2C259&sr=8-7&th=1&linkCode=ll2&tag=jlab2026-20&linkId=6ec96930fa24afb99c726221b3edf291&language=en_US&ref_=as_li_ss_tl) 
+  Twelve Gates:<br/> [<img src="{{ site.baseurl }}/assets/images/pearl.jpg" alt="Pearl" class="thumbnail"> Large Pearl each gate](https://www.amazon.com/LMDPRAJAPATIS-Gemstone-Original-Certified-Carat/dp/B0CDQLCSGZ?crid=2G5HR599ILER2&dib=eyJ2IjoiMSJ9.EFs1siaPAcswWkI7Hda9ZxiMRned5OepeAioQV9y2Pf1KO4xeQD89PzyhnWnx82BdcT5JRLaBMoZYAMrfo167lCvZ_nuLnZGfKlZqSSuMzxILKXhkqPPDACd-PwTUt8-oATpOcqMoKdhJYALxQoDa1AU9gqwSornv32wU25Dt4fI7WC_y-dGzFebqyhCPBC8-VhuHuLXLwSGxpF34O1-tdA7dU9UBSLkC4_7mNE99kVAcxMQF58YCfmnVWQABzf5h33Hrw7XZ1nTP3dmcSUpQJFwMnRO1U3mHTtcV9iJNl0.0eCZILHpIHtBbCGoPqYc7TOc9T7e5zAB2V1-P27O_lo&dib_tag=se&keywords=large%2Bnatural%2Bpearl&qid=1783052840&sprefix=large%2Bpearl%2Caps%2C259&sr=8-7&th=1&linkCode=ll2&tag=jlab2026-20&linkId=6ec96930fa24afb99c726221b3edf291&language=en_US&ref_=as_li_ss_tl) 
 
-  Street: [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold, pure as transparent glass](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY)
+  Street:<br/> [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold, pure as transparent glass](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY)
 
 
 ## Bible Reference 
