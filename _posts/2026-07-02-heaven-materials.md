@@ -11,12 +11,14 @@ published: true
 
 ## Materials
 
-Walls:<br/> Jasper (clear as crystal)
+### Walls:
+[<img src="{{ site.baseurl }}/assets/images/jasper.jpg" alt="Jasper" class="thumbnail"> Jasper (clear as crystal)](https://www.amazon.com/Nvzi-Crystals-Gemstones-Minerals-Originales/dp/B0CYZRPC98?crid=1XR9I3B7I8LCF&dib=eyJ2IjoiMSJ9.NGtrje16sMc3M4V7pq8w210a3pmRIi-3_Ot5rRX7D6YMM6sOEtATmQAjvcBBHqktURE31chp9ECc4in9KdG1FLgPa8X8DATgQq1fzjP0QQNwH5UI8-OocuBjOnaauz0O_nyqBpuDJvKhPxbiQKILtZ4DCrQuVR9-hfKsRqjCaBjSWD6UaWLd8T9GB7iA__-I1J6d3971VunZ76GQi8oPJbiw4jLNF6toBJ5QKXcplhYPmrd7OhPE4EaqSTWifXcjqNNVBo9kkOf7WiolGefPPH0GZxMGMo5ikU0sAnUtRg4.-2lBqjlvtI3KsjaG_E59MbRIUhXohX567BqLjwgzbsc&dib_tag=se&keywords=raw%2Bnatural%2Bjasper&qid=1783140592&sprefix=%2Caps%2C214&sr=8-46&th=1&linkCode=ll2&tag=jlab2026-20&linkId=13f88b1ff31e8d53683dbeebd4303698&language=en_US&ref_=as_li_ss_tl)
+Jasper (clear as crystal)
   
 City:<br/> [<img src="{{ site.baseurl }}/assets/images/gold.png" alt="Gold" class="thumbnail"> Gold "pure as glass"](https://www.amazon.com/gram-orange-assay-Valcambi-pouch/dp/B0CR8NDSDR?crid=VOLWBOUMY)
 
 Foundations of the City Walls
-  1. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Jasper" class="thumbnail"> Jasper](#)
+  1. [<img src="{{ site.baseurl }}/assets/images/jasper.jpg" alt="Jasper" class="thumbnail"> Jasper](https://www.amazon.com/Nvzi-Crystals-Gemstones-Minerals-Originales/dp/B0CYZRPC98?crid=1XR9I3B7I8LCF&dib=eyJ2IjoiMSJ9.NGtrje16sMc3M4V7pq8w210a3pmRIi-3_Ot5rRX7D6YMM6sOEtATmQAjvcBBHqktURE31chp9ECc4in9KdG1FLgPa8X8DATgQq1fzjP0QQNwH5UI8-OocuBjOnaauz0O_nyqBpuDJvKhPxbiQKILtZ4DCrQuVR9-hfKsRqjCaBjSWD6UaWLd8T9GB7iA__-I1J6d3971VunZ76GQi8oPJbiw4jLNF6toBJ5QKXcplhYPmrd7OhPE4EaqSTWifXcjqNNVBo9kkOf7WiolGefPPH0GZxMGMo5ikU0sAnUtRg4.-2lBqjlvtI3KsjaG_E59MbRIUhXohX567BqLjwgzbsc&dib_tag=se&keywords=raw%2Bnatural%2Bjasper&qid=1783140592&sprefix=%2Caps%2C214&sr=8-46&th=1&linkCode=ll2&tag=jlab2026-20&linkId=13f88b1ff31e8d53683dbeebd4303698&language=en_US&ref_=as_li_ss_tl)
   2. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Sapphire" class="thumbnail"> Sapphire](#)
   3. [<img src="{{ site.baseurl }}/assets/images/agate.jpg" alt="Agate" class="thumbnail"> Agate](https://www.amazon.com/rockcloud-Crystals-Tumbling-Lapidary-Polishing/dp/B071CGBXCH?crid=1MNNJ7DDKZSG1&dib=eyJ2IjoiMSJ9.kcCHpb2L_uSStbk5rPdPMbm0xNmWmrxQdNMhTqLbHkED_TH9TlKaFdvsOp6yslRf)
   4. [<img src="{{ site.baseurl }}/assets/images/ph800x600.png" alt="Chalcedony" class="thumbnail"> Chalcedony](#)
